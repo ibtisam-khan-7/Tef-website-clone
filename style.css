@@ -1,0 +1,93 @@
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#facts {
+background-color: #00748c;
+color: #fff;
+padding: 70px 0px;
+}
+
+
+
+
+#our-programmes {
+    margin-top: 50px;
+}
+
+.color {
+    color: #6c757d;
+}
+
+.moder-school {
+    background-color: #f9f9f9;
+    padding: 50px 0px;
+}
+
+#footer {
+    background-color: #343a40; 
+    color: #ffffff; 
+}
+
+
+#footer p {
+    font-size: 0.9rem;
+    line-height: 1.6;
+}
+
+li {
+    padding: 5px 0px;
+}
+
+#footer p, a{
+    color: #747474;
+}
+
+
+/* about us */
+
+
+.bg-img {
+    background-position: center;
+    background-size: cover;
+    padding: 130px;
+    background-repeat: no-repeat;
+    
+}
+
+.para-t{
+    font-size: 17px;
+    line-height: 32px;
+    margin-bottom: 1rem;
+    text-align: justify;
+    color: #6c757d;
+}
+
+.tareen-img {
+    border: 1px solid #dee2e6;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.19);
+}
+
+#middle {
+    margin: 100px;
+}
+
+/* vision css  */
+
+.vision-p{
+    font-size: 17px;
+    line-height: 30px;
+    text-align: justify;
+}
+
+/* values css  */
+.img-div{
+   text-align: center;
+}
+#prof{
+    margin-bottom: 0px;
+    line-height: 20px;
+}
